@@ -1,0 +1,27 @@
+# Ignore all .parquet files
+*.parquet
+*.pqt
+
+# Ignore all .csv files
+*.csv
+
+# Ignore all .json files
+*.json
+
+# Ignore all .log files
+*.log
+
+# Ignore all .txt files
+*.txt
+
+# Ignore all .zip files
+*.zip
+# Ignore all .gz files
+*.gz
+# Ignore all .tar files
+*.tar
+# Ignore all .tgz files 
+*.tgz
+
+# Ignore .DS_Store files
+.DS_Store
